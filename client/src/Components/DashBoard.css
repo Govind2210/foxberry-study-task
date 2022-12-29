@@ -1,0 +1,34 @@
+.header-navBar{
+    display: flex;
+    max-width: 100%;
+    background-color: rgb(241, 93, 93);
+}
+
+
+.box-1{
+    max-width: 10em;
+    margin-left: 5em;
+    padding-top: 15px;
+}
+
+.box-2{
+    margin-left: 60em;
+    padding-top: 15px;
+}
+
+.main-content{
+    margin-top: 1em;
+    max-width: 100%;
+    margin: 2em;
+}
+
+.main-content{
+    display: flex;
+    max-width: 80em;
+    margin-left: 8em;
+    height: auto;
+}
+
+.subjects-phara{
+    margin: 3em;
+}
